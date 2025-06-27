@@ -65,7 +65,8 @@ Access the dashboard at `http://localhost:5000`
 * Model: Random Forest Classifier
 * Input Features: Pulse, Temperature, GSR
 * Output Labels: Normal, Stressed, Calm
-* Accuracy: \~90%
+* Accuracy: \~100%
+* Validation Accuracy: \~99.5%
 * Training done on simulated + collected data
 
 🎯 Use Cases
